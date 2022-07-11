@@ -1,0 +1,1 @@
+# itemszop.js
